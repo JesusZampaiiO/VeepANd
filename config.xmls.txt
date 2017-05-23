@@ -1,0 +1,12 @@
+    <widget id="com.example.hello" version="0.0.1">
+        <name>Vibra</name>
+        <description>
+            Vibra y beep
+        </description>
+        <author email="chuito69@horniebitch.mx" href="http://cordova.io">
+            Apache Cordova Team
+        </author>
+        <content src="index.html" />
+<gap: plugin name="org.apache.cordova.vibration" version="0.3.0" />
+<gap: plugin name="org.apache.cordova.dialogs" version="0.2.6" />
+    </widget>
